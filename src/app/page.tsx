@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import {getFlashCards} from '@/db';
-import {AddFlashcard} from '@/components/addFlashcard';
+import {AddFlashcard} from '@/components/add-flashcard';
 import {Separator} from '@/components/ui/separator';
 
 export default async function Home() {

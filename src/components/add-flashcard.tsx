@@ -1,5 +1,5 @@
 import {Card, CardContent, CardHeader, CardTitle} from '@/components/ui/card';
-import FlashcardForm from '@/components/flashcardForm';
+import FlashcardForm from '@/components/flashcard-form';
 import insertFlashcard from '@/app/actions/flashcard';
 
 export function AddFlashcard() {
